@@ -33,7 +33,7 @@
 A Python + MySQL project to find blood donors quickly based on blood group and location.
 
 ### 🎓 Student Management System
-Built using Django with CRUD operations.
+Built using Pycharm 
 
 ### 🌐 Personal Portfolio Website
 Responsive portfolio showcasing my skills and projects.
@@ -71,12 +71,12 @@ Responsive portfolio showcasing my skills and projects.
 </a>
 
 <!-- Replace with your LinkedIn URL -->
-<a href="#">
+<a href="https://www.linkedin.com/in/sanjay-a-5b0a61330?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <!-- Replace with your Portfolio URL -->
-<a href="#">
+<a href="https://sannjay45.github.io/2port/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
