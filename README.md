@@ -56,8 +56,7 @@ Responsive portfolio showcasing my skills and projects.
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sannjay45&theme=tokyonight"/>
-
+<img src="https://streak-stats.demolab.com?user=Sannjay45&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
