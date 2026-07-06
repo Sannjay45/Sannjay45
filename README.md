@@ -12,7 +12,7 @@
 - 🎓 Passionate Python Full Stack Developer
 - 🌱 Currently learning Django & Advanced Web Development
 - 💻 Love building real-world applications
-- 🎯 Goal: Become a Software Engineer
+- 🎯 Goal: Become a Web Developer
 - 📍 India
 
 ---
@@ -43,11 +43,7 @@ Responsive portfolio showcasing my skills and projects.
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sannjay45&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sannjay45&layout=compact&theme=tokyonight"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sannjay45&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 </p>
 
 ---
@@ -55,10 +51,8 @@ Responsive portfolio showcasing my skills and projects.
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sannjay45&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=Sannjay45&theme=radical&hide_border=true" />
 </p>
-
 ---
 
 ## 🌐 Connect With Me
